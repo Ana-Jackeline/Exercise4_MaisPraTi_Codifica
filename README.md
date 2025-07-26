@@ -1,4 +1,4 @@
-# 🌸 Cleangirl Tech Portfólio
+# 🌸 Portfólio
 
 Um portfólio web com visual suave, moderno e interativo , com foco em tecnologia, organização e delicadeza. O site conta com um plano de fundo animado que responde ao movimento do mouse, utilizando GIFs e transições suaves via CSS e JavaScript.
 
