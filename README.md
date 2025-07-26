@@ -26,12 +26,6 @@ Um portfólio web com visual suave, moderno e interativo , com foco em tecnologi
 - Edite as cores no CSS para ajustar à sua identidade visual.
 - Você pode adicionar mais seções no HTML, como "Projetos", "Sobre mim", "Contato", etc.
 
-## 📸 Prévia (sugestiva)
-
-![preview](preview.gif)
-
-> *Imagem ilustrativa com fundo animado, rosa suave e tipografia limpa.*
-
 ## 🧚‍♀️ Inspiração
 
 Este projeto foi inspirado na tendência visual minimalista, intuitiva, e visualmente harmônica.
